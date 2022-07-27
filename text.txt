@@ -49,4 +49,6 @@ it jenkin commit 2 3
 
 =======
 =========================================
-good morning from Master to all  --(merge update done)
+good morning from Master to all  
+
+Good morning master and all -new branch
