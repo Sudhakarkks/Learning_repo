@@ -49,8 +49,14 @@ it jenkin commit 2 3
 
 =======
 =========================================
+
 good morning from Master to all  
 
 Good morning master and all -new branch
 
 good morning....... 2707 - TL
+=======
+good morning from Master to all  --(merge update done).....
+
+
+everthing fine --master
